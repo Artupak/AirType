@@ -2,7 +2,7 @@
 
 AirType, web kamerası aracılığıyla el ve parmak hareketlerinizi algılayarak ekrandaki sanal bir klavye üzerinde yazı yazmanızı sağlayan bir Python projesidir. OpenCV ile görüntü işleme ve MediaPipe ile el takibi teknolojilerini kullanır.
 
-## ✨ Özellikler
+##  Özellikler
 
 *   Gerçek zamanlı el ve parmak ucu algılama (MediaPipe).
 *   Ekranda gösterilen sanal QWERTY klavye.
@@ -13,7 +13,7 @@ AirType, web kamerası aracılığıyla el ve parmak hareketlerinizi algılayara
     *   "bilgisayar" uyandırma kelimesi.
     *   "Google'da ara \[sorgu]" komutu ile web tarayıcısında arama yapma.
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 *   **Python 3.10.3**
 *   **OpenCV (`opencv-python`):** Kamera erişimi, görüntü işleme ve arayüz çizimi.
@@ -24,7 +24,7 @@ AirType, web kamerası aracılığıyla el ve parmak hareketlerinizi algılayara
 *   **`webbrowser`:** Varsayılan web tarayıcısını kontrol etme.
 *   **`threading`:** Eş zamanlı işlemler (ses tanıma için).
 
-## 📂 Dosya Yapısı
+##  Dosya Yapısı
 
 ```
 AirType/
@@ -36,7 +36,7 @@ AirType/
 └── README.md               # Bu dosya
 ```
 
-## 🚀 Kurulum ve Başlatma
+##  Kurulum ve Başlatma
 
 ### Gereksinimler
 *   Python 3.10.3
@@ -75,7 +75,7 @@ AirType/
 python main.py
 ```
 
-## ⌨️ Kullanım
+##  Kullanım
 
 *   **Yazma:**
     *   Elinizi kameranın görebileceği bir şekilde konumlandırın.
@@ -93,14 +93,14 @@ python main.py
 
 *   **Çıkış:** Uygulamadan çıkmak için klavyeden `'q'` tuşuna basın.
 
-## 🔮 Gelecek Geliştirmeler (Planlanan)
+##  Gelecek Geliştirmeler (Planlanan)
 
 *   Harfleri hece düzeyinde otomatikleştirme.
 *   Sesli geri bildirim (örneğin, tuşa basıldığında veya komut algılandığında gTTS entegrasyonu).
 *   Klavye yerine sanal çizim (air-draw) modu.
 *   Daha gelişmiş metin düzenleme özellikleri.
 
-## 👤 Yazar
+##  Yazar
 
 *   **Arda Çınar (Artupak)**
 *   GitHub: [https://github.com/Artupak](https://github.com/Artupak)
