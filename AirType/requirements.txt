@@ -1,0 +1,5 @@
+opencv-python
+mediapipe
+numpy
+SpeechRecognition
+PyAudio # Windows'ta mikrofon erişimi için genellikle gereklidir 
